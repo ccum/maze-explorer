@@ -12,6 +12,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <sonar.host.url>http://mysonar:9000</sonar.host.url>
     </properties>
 
     <distributionManagement>
